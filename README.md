@@ -46,35 +46,38 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,js,html,css,git,github,vscode,jupyter,pandas,numpy,sklearn,matplotlib,pytest&theme=dark" />
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,mysql&theme=dark" />
 
-</div>
+### 🤖 Machine Learning & Data
+<img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,matplotlib,jupyter&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SMOTE-6a11cb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Feature_Engineering-2c5364?style=for-the-badge" />
 
-| Area | Skills |
-|:--|:--|
-| 🐍 **Languages** | Python, JavaScript, HTML5, CSS3, SQL |
-| 🤖 **Machine Learning** | Scikit-learn, Classification, Regression, Feature Engineering, Model Evaluation, Imbalanced Data (SMOTE), XGBoost |
-| 🔤 **NLP** | NLTK, VADER Sentiment, TF-IDF, N-gram Language Models, Spell Correction, Emotion Detection |
-| 🧠 **LLMs & RAG** | OpenAI API, Groq API, Retrieval-Augmented Generation, Prompt Engineering, Streaming Responses |
-| 🎬 **Recommenders** | Content-Based Filtering, Cosine Similarity, TMDB Dataset |
-| 📈 **Time Series & Finance** | Stock Market Prediction, Technical Indicators, yfinance, Live Market APIs |
-| 🎲 **Simulation** | Elo Rating Systems, Monte Carlo Simulation |
-| 🎙 **Voice & Automation** | SpeechRecognition, pyttsx3, Voice Assistants |
-| 👁 **Computer Vision / OCR** | Tesseract OCR, Prescription Text Extraction |
-| 📊 **Data & Viz** | Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebooks |
-| 🌐 **Backend** | Flask, REST APIs, Jinja2, JSON, Session Handling |
-| 🎨 **Frontend** | Responsive UI, Fetch API, Dashboards, Portfolio Websites |
-| 🧪 **Testing & Tools** | pytest, Git, GitHub, VS Code, Virtual Environments, pip |
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+### 🔤 NLP & LLMs
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLTK-154f5b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VADER-0f2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TF--IDF-6a11cb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-2c5364?style=for-the-badge" />
+
+### 🎬 Recommenders · 📈 Finance · 🎲 Simulation
+<img src="https://img.shields.io/badge/Cosine_Similarity-6a11cb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TMDB-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white" />
+<img src="https://img.shields.io/badge/yfinance-7B1FA2?style=for-the-badge&logo=yahoo&logoColor=white" />
+<img src="https://img.shields.io/badge/Elo_Rating-2c5364?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Monte_Carlo-0f2027?style=for-the-badge" />
+
+### 🎙 Voice & Vision
+<img src="https://img.shields.io/badge/SpeechRecognition-EA4335?style=for-the-badge&logo=googleassistant&logoColor=white" />
+<img src="https://img.shields.io/badge/pyttsx3-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
+### 🌐 Backend, Frontend & Tools
+<img src="https://skillicons.dev/icons?i=flask,html,css,js,git,github,vscode,pytest&theme=dark" />
 
 </div>
 
