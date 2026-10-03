@@ -46,12 +46,34 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,js,html,css,git,github,vscode,jupyter&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,flask,js,html,css,git,github,vscode,jupyter,pandas,numpy,sklearn,matplotlib,pytest&theme=dark" />
+
+</div>
+
+| Area | Skills |
+|:--|:--|
+| 🐍 **Languages** | Python, JavaScript, HTML5, CSS3, SQL |
+| 🤖 **Machine Learning** | Scikit-learn, Classification, Regression, Feature Engineering, Model Evaluation, Imbalanced Data (SMOTE), XGBoost |
+| 🔤 **NLP** | NLTK, VADER Sentiment, TF-IDF, N-gram Language Models, Spell Correction, Emotion Detection |
+| 🧠 **LLMs & RAG** | OpenAI API, Groq API, Retrieval-Augmented Generation, Prompt Engineering, Streaming Responses |
+| 🎬 **Recommenders** | Content-Based Filtering, Cosine Similarity, TMDB Dataset |
+| 📈 **Time Series & Finance** | Stock Market Prediction, Technical Indicators, yfinance, Live Market APIs |
+| 🎲 **Simulation** | Elo Rating Systems, Monte Carlo Simulation |
+| 🎙 **Voice & Automation** | SpeechRecognition, pyttsx3, Voice Assistants |
+| 👁 **Computer Vision / OCR** | Tesseract OCR, Prescription Text Extraction |
+| 📊 **Data & Viz** | Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebooks |
+| 🌐 **Backend** | Flask, REST APIs, Jinja2, JSON, Session Handling |
+| 🎨 **Frontend** | Responsive UI, Fetch API, Dashboards, Portfolio Websites |
+| 🧪 **Testing & Tools** | pytest, Git, GitHub, VS Code, Virtual Environments, pip |
+
+<div align="center">
+
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/NLTK-154f5b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 
 </div>
