@@ -50,11 +50,41 @@
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,mysql&theme=dark" />
 
 ### 🤖 Machine Learning & Data
-<img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,matplotlib,jupyter&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SMOTE-6a11cb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LightGBM-02A04A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Statsmodels-2c5364?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Joblib-6a11cb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pickle-2c5364?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/Classification-6a11cb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Regression-6a11cb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Clustering-6a11cb?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Feature_Engineering-2c5364?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Model_Evaluation-2c5364?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hyperparameter_Tuning-2c5364?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cross--Validation-2c5364?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/SMOTE-0f2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Imbalanced_Data-0f2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EDA-0f2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Cleaning-0f2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Time_Series-0f2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Content--Based_Filtering-0f2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cosine_Similarity-0f2027?style=for-the-badge" />
 
 ### 🔤 NLP & LLMs
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
