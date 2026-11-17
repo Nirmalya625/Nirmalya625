@@ -35,7 +35,7 @@
 | 📄 **RAG PDF Chatbot** | [Repo](https://github.com/Nirmalya625/portfolio-assistant) | Document Q&A over PDFs with TF-IDF retrieval and a pytest suite | Flask · Groq |
 | 💬 **OpenAI Chatbot** | — | Streaming chat UI powered by the OpenAI API, with an eval notebook | Flask · OpenAI |
 | 📈 **SIGNAL — Stock Predictor** | — | Next-day buy/sell prediction model | Python · ML |
-| ✍️ **Proofread — Text Correction** | — | Spell checking and correction with a Brown-corpus n-gram model | Flask · NLP |
+| ✍️ **Proofread — Text Correction** | [Repo](https://github.com/Nirmalya625/text_corrector) | Spell checking and correction with a Brown-corpus n-gram model | Flask · NLP |
 | 🎬 **Movie Recommender** | [Repo](https://github.com/Nirmalya625/movie-recommendation-system) | Content-based recommendations on the TMDB 5000 dataset | Pandas · Scikit-learn |
 | ⚽ **World Cup 2026 Predictor** | [Repo](https://github.com/Nirmalya625/world_cup_predictor) | Elo engine + Monte Carlo bracket simulator | Python · Simulation |
 | 🕵️ **Fraud Detection** | [Repo](https://github.com/Nirmalya625/credit-card-fraud-detection) | Fraud detection ML pipeline _(in progress)_ | Python · ML |
