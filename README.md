@@ -21,7 +21,7 @@
 - 🧱 Every project follows one structure: **Python/Flask backend + Jupyter notebook + polished frontend**
 - 🎯 Profound interest in building projects and products that **'stick'**
 - 📚 Currently learning: _(add here)_
-- 📫 Reach me: [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL) · [Portfolio](YOUR_PORTFOLIO_URL)
+- 📫 Reach me: [Email](mailto:nirmalya6sarkar@gmail.com) · [GitHub](https://github.com/Nirmalya625)
 
 ---
 
@@ -29,16 +29,18 @@
 
 | Project | Link | Description | Stack |
 |:--|:--|:--|:--|
-| 🤖 **Nova — AI Companion** | [Repo](YOUR_LINK) | Browser AI companion with a full feature set | Flask · JS |
-| 🏥 **Healthcare Platform** | [Repo](YOUR_LINK) | Patient / collector / lab / admin booking-to-report system with AI + OCR prescription extraction | Full-stack · OCR |
-| 🎤 **Interview Emotion Chatbot** | [Repo](YOUR_LINK) | Interview practice bot with real-time emotion detection and adaptive follow-ups | Flask · VADER |
-| 📄 **RAG PDF Chatbot** | [Repo](YOUR_LINK) | Document Q&A over PDFs with TF-IDF retrieval and a pytest suite | Flask · Groq |
-| 💬 **OpenAI Chatbot** | [Repo](YOUR_LINK) | Streaming chat UI powered by the OpenAI API, with an eval notebook | Flask · OpenAI |
-| 📈 **SIGNAL — Stock Predictor** | [Repo](YOUR_LINK) | Next-day buy/sell prediction model | Python · ML |
-| ✍️ **Proofread — Text Correction** | [Repo](YOUR_LINK) | Spell checking and correction with a Brown-corpus n-gram model | Flask · NLP |
-| 🎬 **Movie Recommender** | [Repo](YOUR_LINK) | Content-based recommendations on the TMDB 5000 dataset | Pandas · Scikit-learn |
-| ⚽ **World Cup 2026 Predictor** | [Repo](YOUR_LINK) | Elo engine + Monte Carlo bracket simulator | Python · Simulation |
-| 🕵️ **Fraud Detection** | [Repo](YOUR_LINK) | Fraud detection ML pipeline _(in progress)_ | Python · ML |
+| 🤖 **Nova — AI Companion** | — | Browser AI companion with a full feature set | Flask · JS |
+| 🏥 **Healthcare Platform** | — | Patient / collector / lab / admin booking-to-report system with AI + OCR prescription extraction | Full-stack · OCR |
+| 🎤 **Interview Emotion Chatbot** | — | Interview practice bot with real-time emotion detection and adaptive follow-ups | Flask · VADER |
+| 📄 **RAG PDF Chatbot** | [Repo](https://github.com/Nirmalya625/portfolio-assistant) | Document Q&A over PDFs with TF-IDF retrieval and a pytest suite | Flask · Groq |
+| 💬 **OpenAI Chatbot** | — | Streaming chat UI powered by the OpenAI API, with an eval notebook | Flask · OpenAI |
+| 📈 **SIGNAL — Stock Predictor** | — | Next-day buy/sell prediction model | Python · ML |
+| ✍️ **Proofread — Text Correction** | — | Spell checking and correction with a Brown-corpus n-gram model | Flask · NLP |
+| 🎬 **Movie Recommender** | [Repo](https://github.com/Nirmalya625/movie-recommendation-system) | Content-based recommendations on the TMDB 5000 dataset | Pandas · Scikit-learn |
+| ⚽ **World Cup 2026 Predictor** | [Repo](https://github.com/Nirmalya625/world_cup_predictor) | Elo engine + Monte Carlo bracket simulator | Python · Simulation |
+| 🕵️ **Fraud Detection** | [Repo](https://github.com/Nirmalya625/credit-card-fraud-detection) | Fraud detection ML pipeline _(in progress)_ | Python · ML |
+| 📘 **Supervised Learning** | [Repo](https://github.com/Nirmalya625/supervised-learning-ML) | Regression, classification, evaluation, preprocessing and feature engineering | Python · Scikit-learn |
+| 🔍 **Unsupervised Learning** | [Repo](https://github.com/Nirmalya625/unsupervised-learning-ML) | Clustering, dimensionality reduction, anomaly detection and pattern discovery | Python · Scikit-learn |
 
 ---
 
@@ -130,11 +132,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirmalya625)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_X_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirmalya6sarkar@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
 
